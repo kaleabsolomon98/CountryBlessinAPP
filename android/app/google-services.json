@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869026528484",
+    "project_id": "authentication-7798e",
+    "storage_bucket": "authentication-7798e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869026528484:android:904fcc850b744c678540f1",
+        "android_client_info": {
+          "package_name": "com.example.countyourblessings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869026528484-tg489aa7h80e5lj4gimjvfkm71it3nmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0wRO740ti3jiiTAq3YJM56YhOgPu6Vx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869026528484-tg489aa7h80e5lj4gimjvfkm71it3nmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
